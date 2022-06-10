@@ -1,0 +1,17 @@
+push constant 7
+push constant 43
+and
+push constant 148
+neg
+push constant 148
+and
+push constant 10000
+push constant 10001
+and
+push constant 89
+push constant 14
+and
+push constant 0
+push constant 0
+and
+

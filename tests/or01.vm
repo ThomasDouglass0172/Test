@@ -1,0 +1,17 @@
+push constant 7
+push constant 43
+or
+push constant 148
+neg
+push constant 148
+or
+push constant 10000
+push constant 10001
+or
+push constant 89
+push constant 14
+or
+push constant 0
+push constant 0
+or
+

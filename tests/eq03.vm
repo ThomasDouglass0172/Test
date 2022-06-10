@@ -1,0 +1,4 @@
+push constant 1000
+neg
+push constant 1000
+eq

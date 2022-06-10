@@ -1,0 +1,15 @@
+push temp 6
+pop local 6
+
+push pointer 1 
+
+pop argument 17
+
+push static 2
+pop this 0
+
+push constant 1000
+pop argument 17
+
+push constant 20
+pop that 0

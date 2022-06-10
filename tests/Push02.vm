@@ -1,0 +1,8 @@
+push argument 1
+push constant 2
+
+push argument 2
+push static 2
+
+push this 3
+push that 2
